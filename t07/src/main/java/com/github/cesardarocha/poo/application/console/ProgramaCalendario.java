@@ -4,9 +4,9 @@
  * Creative Commons Attribution 4.0 International License.
  */
 
-package com.github.kyriosdata.exemplo.application.console;
+package com.github.cesardarocha.poo.application.console;
 
-import com.github.kyriosdata.exemplo.domain.Calendario;
+import com.github.cesardarocha.poo.t07.Calendario;
 
 /**
  * Programa que exibe o dia da semana para o dia em que é executado.

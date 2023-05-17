@@ -8,6 +8,8 @@ package com.github.kyriosdata.exemplo.domain;
 
 import org.junit.jupiter.api.Test;
 
+import com.github.cesardarocha.poo.t07.Calendario;
+
 import java.time.LocalDate;
 
 import static org.junit.jupiter.api.Assertions.*;

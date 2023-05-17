@@ -4,14 +4,15 @@
  * Creative Commons Attribution 4.0 International License.
  */
 
-package com.github.kyriosdata.exemplo.application.api;
+package com.github.cesardarocha.poo.application.api;
 
-import com.github.kyriosdata.exemplo.domain.Calendario;
-import com.github.kyriosdata.exemplo.domain.DiaDaSemana;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.github.cesardarocha.poo.t07.Calendario;
+import com.github.cesardarocha.poo.t07.DiaDaSemana;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
