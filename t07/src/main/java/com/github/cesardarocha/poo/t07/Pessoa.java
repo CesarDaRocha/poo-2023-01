@@ -8,5 +8,5 @@ public class Pessoa{
     private short ano;
     private short idade;
     private Data nascimento;
-    
+    private String nome;
 }
