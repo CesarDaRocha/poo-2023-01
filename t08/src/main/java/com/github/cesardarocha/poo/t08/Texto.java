@@ -1,6 +1,5 @@
 package com.github.cesardarocha.poo.t08;
 import java.util.TreeSet;
-
 import jakarta.websocket.Decoder.Text;
 
 public class Texto {
