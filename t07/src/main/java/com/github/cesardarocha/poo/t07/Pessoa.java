@@ -5,5 +5,6 @@ public class Pessoa{
     private short mes;
     private short ano;
     private short idade;
+    private Data nascimento;
     
 }
