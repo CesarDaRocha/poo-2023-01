@@ -1,12 +1,24 @@
 package com.github.cesardarocha.poo.t08;
-import java.util.*;
-//Pais = Pessoa
-// Cidade = Telefone
+
 
 public class Pais {
-    private String nome;
-    private Set cidades = new HashSet();
+    private Cidade cidade;
 
+    // Construtor do País
 
+    public Pais() {
+        cidade = new Cidade();
+        cidade.setPaís(this);
+    }
+
+    // Métodos de acesso para a Cidade
+
+    public Cidade getCidade() {
+        return cidade;
+    }
+
+    public void setCidade(Cidade cidade) {
+        this.cidade = cidade;
+    }
 }
 
