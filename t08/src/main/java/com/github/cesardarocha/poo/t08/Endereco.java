@@ -4,5 +4,5 @@ public class Endereco {
     
 }
 class Escola extends Endereco{
-    private String local;
+    
 }
