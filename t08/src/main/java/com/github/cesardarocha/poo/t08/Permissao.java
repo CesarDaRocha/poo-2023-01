@@ -17,5 +17,16 @@ private Arquivo arquivo;
         this.arquivo = arquivo;
     }
 
+private Grupo grupo;
+
     
+
+    public Grupo getGrupo(){
+        return grupo;
+    }
+
+    public void setGrupo(Grupo grupo){
+        this.grupo = grupo;
+    }
+
 }
