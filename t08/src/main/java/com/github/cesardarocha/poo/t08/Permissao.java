@@ -11,6 +11,11 @@ private Arquivo arquivo;
     public Permissao() {
     }
 
+    // Métodos de acesso para o País
+
+    public Arquivo getArquivo() {
+        return arquivo;
+    }
 
     public void setArquivo(Arquivo arquivo) {
         this.arquivo = arquivo;
