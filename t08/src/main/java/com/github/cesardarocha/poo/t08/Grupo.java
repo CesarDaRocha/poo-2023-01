@@ -7,5 +7,5 @@ public class Grupo {
             public void setPermissao(Permissao permissao) {
                 this.permissao = permissao;
             }
-    
+            private String usuario;
 }
