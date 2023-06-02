@@ -9,8 +9,6 @@ private Arquivo arquivo;
     public Permissao() {
     }
 
-   
-
     public Arquivo getArquivo() {
         return arquivo;
     }
@@ -18,4 +16,6 @@ private Arquivo arquivo;
     public void setArquivo(Arquivo arquivo) {
         this.arquivo = arquivo;
     }
+
+    
 }
