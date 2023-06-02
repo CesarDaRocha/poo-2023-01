@@ -12,5 +12,5 @@ class Botão extends Einteracao{
 
 }
 class BarraRolagem extends Einteracao{
-    
+
 }
