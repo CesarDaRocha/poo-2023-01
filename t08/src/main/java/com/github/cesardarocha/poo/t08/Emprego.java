@@ -1,7 +1,9 @@
 package com.github.cesardarocha.poo.t08;
 
 public class Emprego {
-    //Emprego = Permissão
+    private float salario;
+    private String inicio;
+    private String fim;
     private Pessoa pessoa;
 
 
