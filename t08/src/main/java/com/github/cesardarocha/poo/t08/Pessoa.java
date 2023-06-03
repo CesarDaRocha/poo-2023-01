@@ -5,4 +5,10 @@ public class Pessoa {
         
     }
 
+
+    private Emprego emprego;
+
+    public void setEmprego(Emprego emprego) {
+        this.emprego= emprego;
+    }
 }
