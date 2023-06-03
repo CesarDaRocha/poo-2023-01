@@ -9,7 +9,6 @@ public class Emprego {
 
     public Emprego() {
     }
-    
 
     public Pessoa getPessoa() {
         return pessoa;
