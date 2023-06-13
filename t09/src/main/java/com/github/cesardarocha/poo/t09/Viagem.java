@@ -8,6 +8,9 @@ public class Viagem {
     ArrayList<Cidade> cidades;
 
     void percorre(String cidade){
-        
+
     }
+
+    ArrayList<ListaPedidos> lista;
+    
 }
