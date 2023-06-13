@@ -7,7 +7,8 @@ public class Bicicleta {
     String marca;
     Pessoa pessoa;
 
-    void possuiDono(Pessoa pessoa){
+    String possuiDono(Pessoa pessoa){
         String dono = pessoa.nome;
+        return dono;
     }
 }
