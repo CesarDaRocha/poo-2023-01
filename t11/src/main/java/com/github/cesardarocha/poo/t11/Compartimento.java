@@ -6,7 +6,7 @@ public class Compartimento {
     public int qntLivro;
     public String livGuardados[];
 
-    private ArrayList<Livro> livro = new ArrayList<Livro>();
+    private ArrayList<Livro[]> livro = new ArrayList<Livro[]>();
 
     String[] guarda( Livro livro, int posicao){
         
