@@ -5,7 +5,7 @@ public class Bicicleta {
     String cor;
     int aro;
     String marca;
-    Pessoa pessoa;
+    Pessoa pessoa = new Pessoa();
 
     String possuiDono(Pessoa pessoa){
         String dono = pessoa.nome;
