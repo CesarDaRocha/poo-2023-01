@@ -7,6 +7,7 @@ public class Pessoa {
 
     void pedala(Bicicleta bicicleta){
         
+        
     }
     
 }
